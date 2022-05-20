@@ -15,7 +15,7 @@ Para la ejecución correcta del mismo, se deberá contener en el mismo
 directorio los archivos .py siguientes:
 Main.py
 GUI.py
-TP10ultimo.py
+AcousticalParameters.py
 
 El código sólo acepta archivos .wav monofónicos y estereofónicos. 
 Se visualiza gráfico y tabla de resultados por octava y tercio
